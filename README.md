@@ -63,7 +63,7 @@ As sugestões estão organizadas por temas e incluem autores renomados e título
 ## Arquitetura
 - **Arquitetura Limpa: O Guia do Artesão para Estrutura e Design de Software** - Robert C. Martin
 - Caixa de Ferramentas DevOps: Um Guia para Construção, Administração e Arquitetura de Sistemas Modernos - John Willis, Jez Humble, Gene Kim
-- **Livro de Arquitetura e Organização de Computadores** - Andrew S. Tanenbaum, Todd Austin
+- **Organização Estruturada de Computadores** - Andrew S. Tanenbaum, Todd Austin
 - UML 2: Uma Abordagem Prática - Gilleanes Guedes
 - **Software Architecture in Practice** - Len Bass
 - **Continuous Delivery** - Jez Humble, David Farley
@@ -103,7 +103,7 @@ As sugestões estão organizadas por temas e incluem autores renomados e título
 ## C#
 - ASP.NET Core MVC: Aplicações Modernas em Conjunto com o Entity Framework - Everton Coimbra de Araújo
 - Test-Driven Development: Teste e Design no Mundo Real com DotNet - Mauricio Aniche
-- Use a Cabeça C# - Andrew Stellman, Jennifer Greene
+- **Use a Cabeça C#** - Andrew Stellman, Jennifer Greene
 
 ## Carreira, Soft Skills e Liderança
 - Acelerando: Construindo Organizações de Tecnologia de Alta Performance - Nicole Forsgren, Jez Humble, Gene Kim
@@ -181,7 +181,7 @@ As sugestões estão organizadas por temas e incluem autores renomados e título
 - Java SE 8 Programmer I: O Guia para Sua Certificação Oracle Certified Associate - Guilherme Silveira, Mário Amaral
 - MundoJ: Java Efetivo - Joshua Bloch
 - Spring MVC: Domine o Principal Framework Web Java - Alberto Souza
-- Use a Cabeça! Java - Kathy Sierra, Bert Bates
+- **Use a Cabeça! Java** - Kathy Sierra, Bert Bates
 
 ## JavaScript
 - Cangaceiro JavaScript: Uma Aventura no Sertão da Programação - Flávio Almeida
@@ -252,7 +252,6 @@ As sugestões estão organizadas por temas e incluem autores renomados e título
 - User Stories Applied - Mike Cohn
 
 ## Ruby
-- **Refatoração** - Martin Fowler
 - Ruby: Aprenda a Programar na Linguagem Mais Divertida - Lucas Souza
 
 ## Scrum
