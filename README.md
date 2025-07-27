@@ -102,8 +102,10 @@ As sugestões estão organizadas por temas e incluem autores renomados e título
 
 ## C#
 - ASP.NET Core MVC: Aplicações Modernas em Conjunto com o Entity Framework - Everton Coimbra de Araújo
-- Test-Driven Development: Teste e Design no Mundo Real com DotNet - Mauricio Aniche
 - **Use a Cabeça C#** - Andrew Stellman, Jennifer Greene
+- Aprenda a Programar com c#: 3ª Edição -  António Trigo e Jorge Henriques 
+- Princípios, Padrões e Práticas Ágeis em C# - Robert Martin e Micah Martin
+- Curso Prático de c# - Paulo Capela Marques
 
 ## Carreira, Soft Skills e Liderança
 - Acelerando: Construindo Organizações de Tecnologia de Alta Performance - Nicole Forsgren, Jez Humble, Gene Kim
@@ -144,29 +146,39 @@ As sugestões estão organizadas por temas e incluem autores renomados e título
 - **HTML e CSS: Projete e Construa Websites** - Jon Duckett
 - **JavaScript e JQuery: Desenvolvimento de Interfaces Web Interativas** - Jon Duckett
 - Design Responsivo: Trabalhando com HTML5, CSS3 e JavaScript - Ben Frain
+- Guia Front-End: O caminho das pedras para ser um dev Front-End - Diego Eis
+- Front-End: Curso Completo de HTML, CSS e JavaScript - P. A. Gabriel
 
 ## Games
 - Desenvolvimento de Jogos 3D - David H. Eberly
+- Lean Game Development: Desenvolvimento enxuto de jogos - Julia Naomi Boeira
 
 ## Git
 - Controlando Versões com Git e GitHub - Alexandre Aquiles, Rodrigo Ferreira
+- **Aprendendo Git: Um guia prático e visual para os fundamentos do Git** - Anna Skoulikari
+- **Git: Guia Prático** - Richard E. Silverman
+- **Version Control with Git: Powerful Tools and Techniques for Collaborative Software Development** -  Prem Kumar Ponuthorai e Jon Loeliger
 
 ## Go
 - Programando em Go: Crie Aplicações com a Linguagem do Google - Caleb Doxsey
+- A Linguagem de Programação Go - Alan A. A. Donovan e  Brian W. Kernighan
+- Go Lang para Iniciantes: Domine Go em Poucos Passos - Logan Pierce
+- Learning Go: An Idiomatic Approach to Real-World Go Programming - Jon Bodner
+- Iniciando com Go Lang: Guia inicial para começar a desenvolver com GO Lang - Carlos Lorenzon 
 
 ## Hardware
 - Analog and Digital Circuits for Electronic Control System Applications: Using the TI MSP430 Microcontroller - Jerry Luecke
-- Arduino Básico - Michael McRoberts
-- Arduino Descomplicado - Claudio Luis Vieira Oliveira, Humberto Augusto Piovesana Zanetti
-- Getting Started with Arduino - Massimo Banzi
-- Getting Started with the MSP430 Launchpad - Adrian Fernandez, Dung Dang
-- Introduction to Embedded Systems: Using Microcontrollers and the MSP430 - Manuel Jiménez, Rogelio Palomera, Isidoro Couvertier
 - Organização Estruturada de Computadores - Andrew S. Tanenbaum
 - PIC Microcontroller Project Book - John Lovine
 - Sensors and Transducers - Ian Sinclair
 
 ## Inteligência Artificial
 - Inteligência Artificial: Uma Abordagem Moderna - Stuart Russell, Peter Norvig
+- Inteligência artificial: Aplicações e desafios - Sérgio Branco e Eduardo Magrani
+- Inteligência artificial: Como os robôs estão mudando o mundo, a forma como amamos, nos relacionamos, trabalhamos e vivemos - Kai-Fu Lee
+- Guia da Inteligência Artificial: do Iniciante ao Nerd - André Barcaui
+- Inteligência Artificial: Do Zero a Superpoderes - Martha Gabriel
+- **Inteligência Artificial: Uma Abordagem Moderna** - Stuart J. Russell e Peter Norvig
 
 ## Internet das Coisas (IoT)
 - **Building the Internet of Things** - Maciej Kranz
