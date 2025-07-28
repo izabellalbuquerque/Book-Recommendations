@@ -153,7 +153,7 @@ As sugestões estão organizadas por temas e incluem autores renomados e título
 - Controlando Versões com Git e GitHub - Alexandre Aquiles, Rodrigo Ferreira
 - **Aprendendo Git: Um guia prático e visual para os fundamentos do Git** - Anna Skoulikari
 - **Git: Guia Prático** - Richard E. Silverman
-- **Version Control with Git: Powerful Tools and Techniques for Collaborative Software Development** -  Prem Kumar Ponuthorai e Jon Loeliger
+- **Version Control with Git: Powerful Tools and Techniques for Collaborative Software Development** - Prem Kumar Ponuthorai e Jon Loeliger
 
 ## Go
 - Programando em Go: Crie Aplicações com a Linguagem do Google - Caleb Doxsey
@@ -202,7 +202,7 @@ As sugestões estão organizadas por temas e incluem autores renomados e título
 - Lógica de Programação: Crie Seus Primeiros Programas Usando JavaScript e HTML - Adriano Almeida
 - MEAN: Full Stack JavaScript para Aplicações Web com MongoDB, Express, Angular e Node - Flávio Almeida
 - Primeiros Passos com React - Stoyan Stefanov
-- **Você Não Conhece JavaScript** - Kyle Simpson
+- **You Don't Know JS** - Kyle Simpson
 
 ## Linux
 - Linux: A Bíblia - Christopher Negus
@@ -231,7 +231,7 @@ As sugestões estão organizadas por temas e incluem autores renomados e título
 - Laravel: Up and Running: A Framework for Building Modern PHP Apps - Matt Stauffer
 - Learn PHP 7: Object Oriented Modular Programming using HTML5, CSS3, JavaScript, XML, JSON, and MySQL - Steve Prettyman
 - PHP: Programando com Orientação a Objetos - Pablo Dall’Oglio
-- PHP and MySQL Web Development: Master the Concepts of PHP: A Step By Step Process - Luke Welling, Laura Thomson
+- PHP and MySQL Web Development - Luke Welling, Laura Thomson
 - PHP: Learn PHP in 24 Hours or Less - A Beginner's Guide To Learning PHP Programming Now - Robert Dwight
 - Practical PHP 7, MySQL 8, and MariaDB Website Databases: A Simplified Approach to Developing Database-Driven Websites - Adrian W. West
 
