@@ -46,7 +46,7 @@ As sugestões estão organizadas por temas e incluem autores renomados e título
 - [Scrum](#scrum)
 - [Segurança da Informação](#segurança-da-informação)
 - [Shell Script](#shell-script)
-- [Sistemas](#sistemas)
+- [Sistemas](#sistemas-embarcados-e-sistemas-operacionais)
 - [Software](#software)
 
 ## Algoritmos
@@ -79,7 +79,6 @@ As sugestões estão organizadas por temas e incluem autores renomados e título
 - Aplicações Web Real-Time com Node.js - Caio Ribeiro Pereira
 - ASP.NET Core MVC: Aplicações Modernas em Conjunto com o Entity Framework - Everton Coimbra de Araújo
 - Desenvolvimento Web com PHP e MySQL - Juliano Niederauer
-- Dominando JavaScript com jQuery - Cody Lindley
 - MySQL: Comece com o Principal Banco de Dados Open Source do Mercado - Vinicius M. Carvalho
 - NoSQL: Como Armazenar os Dados de uma Aplicação Moderna - Adriano Almeida
 - O Canivete Suíço do Desenvolvedor Node - Caio Ribeiro Pereira
@@ -96,9 +95,6 @@ As sugestões estão organizadas por temas e incluem autores renomados e título
 - Embedded C - Michael J. Pont
 - Introdução à Programação em C: Os Primeiros Passos de um Desenvolvedor - Gustavo Furtado de Oliveira Alves
 - Introdução à Programação em C++ - Y. Daniel Liang
-- Orientação a Objetos e SOLID para Ninjas: Projetando Classes Flexíveis - Mauricio Aniche
-- Programming Embedded Systems in C and C++ - Michael Bar
-- Test-Driven Development: Teste e Design no Mundo Real - Kent Beck
 
 ## C#
 - ASP.NET Core MVC: Aplicações Modernas em Conjunto com o Entity Framework - Everton Coimbra de Araújo
@@ -282,7 +278,7 @@ As sugestões estão organizadas por temas e incluem autores renomados e título
 - Pequeno Manual do Programador Bash - Blau Araújo
 - Shell Script Profissional - Aurélio Marinho Jargas
 
-## Sistemas
+## Sistemas embarcados e sistemas operacionais
 - Embedded Systems Design Using the TI MSP430 Series - Chris Nagy
 - MSP430-Based Robot Applications: A Guide to Developing Embedded Systems - Dan Harres
 - **Sistemas Operacionais: Conceitos e Design** - Abraham Silberschatz, Peter B. Galvin
