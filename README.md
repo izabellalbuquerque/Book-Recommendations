@@ -178,7 +178,7 @@ As sugestões estão organizadas por temas e incluem autores renomados e título
 |-------|------|-------|-----------|--------|
 | **Os Elementos do Aprendizado Estatístico - Trevor Hastie, Robert Tibshirani, Jerome Friedman** | Estatística Avançada | Avançado | Modelagem estatística | Obra referência em estatística para aprendizado de máquina. |
 | Estatística Prática para Ciência de Dados - Peter Bruce, Andrew Bruce, Peter Gedeck | Estatística Aplicada | Intermediário | Análise de dados | Guia prático de estatística para cientistas de dados. |
-| All of Statistics: A Concise Course in Statistical Inference - Larry Wasserman | Estatística Geral | Intermediário/Avançado | Inferência Estatística, Data Science | Um guia conciso e abrangente que cobre fundamentos de estatística e inferência, ideal para cientistas de dados e profissionais de machine learning que buscam uma base teórica sólida com aplicações práticas. |
+| All of Statistics: A Concise Course in Statistical Inference - Larry Wasserman | Estatística Geral | Intermediário/Avançado | Inferência Estatística, Data Science | Guia compacto sobre estatística e inferência, ideal para data science e machine learning. |
 
 ## Front-end
 
