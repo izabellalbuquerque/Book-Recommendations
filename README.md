@@ -276,6 +276,7 @@ As sugestões estão organizadas por temas e incluem autores renomados e título
 | Livro | Foco | Nível | Aplicação | Resumo |
 |-------|------|-------|-----------|--------|
 | **Linux: A Bíblia - Christopher Negus** | Administração Linux | Iniciante/Intermediário | Sistemas operacionais | Guia completo para administração e uso do Linux. |
+| Linux Guia Prático (4ª Edição) - Daniel J. Barrett | Comandos Linux | Iniciante/Intermediário | Sistemas operacionais | Guia com mais de 200 comandos Linux essenciais, organizados por funcionalidade, para manipulação de arquivos, administração de sistemas, redes e mais. |
 
 ## Machine Learning
 
