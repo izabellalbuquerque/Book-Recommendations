@@ -1,4 +1,4 @@
-# Indicação de livros para a área de tecnologia
+# Indicações de livros para a área de tecnologia
 
 Neste repositório, você encontra recomendações de livros para diversas áreas da tecnologia, como desenvolvimento front-end, back-end, ciência de dados, segurança da informação, inteligência artificial e muito mais.
 
