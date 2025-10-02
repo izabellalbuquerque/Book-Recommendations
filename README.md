@@ -139,6 +139,7 @@ As sugestões estão organizadas por temas e incluem autores renomados e título
 | Ciência de Dados do Zero - Joel Grus | Fundamentos de Data Science | Iniciante/Intermediário | Análise de dados | Introdução prática à ciência de dados com Python. |
 | Python para Análise de Dados - Wes McKinney | Análise de Dados | Intermediário | Data Science | Guia para análise de dados usando pandas e Python. |
 | Think Stats: Probabilidade e Estatística para Cientistas de Dados - Allen B. Downey | Estatística para Data Science | Iniciante/Intermediário | Análise estatística | Introdução à probabilidade e estatística com exemplos em Python. |
+| A Cor dos Dados: Um guia para o uso de cores em storytelling de dados - Kate Strachnyi | Visualização de Dados e Storytelling | Iniciante/Intermediário | Data Visualization | O livro ensina como usar cores de forma eficaz em visualizações de dados, melhorando a clareza e o impacto do storytelling com dados. |
 
 ## Compiladores
 
