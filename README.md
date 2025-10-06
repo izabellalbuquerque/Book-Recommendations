@@ -25,6 +25,7 @@ As sugestões estão organizadas por temas e incluem autores renomados e título
 - [Computação](#computação)
 - [Deep Learning](#deep-learning)
 - [Design](#design)
+- [Engenharia de Dados](#engenharia-de-dados)
 - [Estatística](#estatística)
 - [Front-end](#front-end)
 - [Games](#games)
@@ -171,6 +172,12 @@ As sugestões estão organizadas por temas e incluem autores renomados e título
 | **Padrões de Projeto: Soluções Reutilizáveis de Software Orientado a Objetos - Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides** | Padrões de Projeto | Intermediário/Avançado | Arquitetura de software | Livro seminal sobre padrões de design para software orientado a objetos. |
 | **Não Me Faça Pensar - Steve Krug** | Usabilidade | Iniciante | Design web | Guia clássico sobre usabilidade e design de interfaces intuitivas. |
 | **O Design do Dia a Dia - Don Norman** | Design Centrado no Usuário | Iniciante | Design geral | Explora princípios de design centrado no usuário em objetos e interfaces.|
+
+## Engenharia de Dados
+
+| Livro | Foco | Nível | Aplicação | Resumo |
+|-------|------|-------|-----------|--------|
+| Governança de Dados: Práticas, Conceitos e Novos Caminhos - Carlos Barbieri | Governança e Estratégia de Dados | Intermediário | Engenharia e Gestão de Dados | O livro aborda conceitos, práticas e frameworks de governança de dados, mostrando como gerenciar, proteger e utilizar informações de forma eficiente e estratégica nas organizações.|
 
 ## Estatística
 
