@@ -9,6 +9,7 @@ As sugestões estão organizadas por temas e incluem autores renomados e título
 📌**Os livros destacados em negrito são obras amplamente reconhecidas e considerados referências em suas respectivas áreas.**
 
 ⭐ **Não se esqueça de marcar este repositório com uma estrela para apoiar e acompanhar futuras atualizações!**  
+
 💡 **Dica: Use Ctrl + F para buscar rapidamente o que precisa.**
 
 ## Sumário
