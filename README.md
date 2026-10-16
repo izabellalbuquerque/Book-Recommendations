@@ -390,6 +390,7 @@ As sugestões estão organizadas por temas e incluem autores renomados e título
 | Segurança de Computadores: Princípios e Práticas - William Stallings, Lawrie Brown | Segurança de Computadores | Intermediário | Segurança | Aborda princípios e práticas de segurança em sistemas. |
 | **Criptografia e Segurança de Redes - William Stallings** | Criptografia | Avançado | Segurança de redes | Livro completo sobre criptografia e segurança de redes. |
 | **The Web Application Hacker’s Handbook - Dafydd Stuttard, Marcus Pinto** | Segurança Web | Avançado | Segurança de apps | Guia detalhado para identificar vulnerabilidades em aplicações web. |
+| [Confronto Cibernético: Técnicas e táticas de enfrentamento e resposta a ameaças persistentes avançadas (APTs) - Hiago Kin Levi](https://confrontocibernetico.com.br/) | Resposta a incidentes e APTs | Intermediário/Avançado | Detecção, contenção, erradicação e inteligência | Obra em português, publicada pela Brasport, sobre resposta a incidentes persistentes, organização de black teams e enfrentamento de APTs. |
 
 ## Shell Script
 
